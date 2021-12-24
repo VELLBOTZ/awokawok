@@ -1,0 +1,1 @@
+[{"error":"false","cmd":"newattp"},{"error":"TypeError: joox is not a function","cmd":"joox"},{"error":"BaileysError: Unexpected status in 'query': Not Found(404)","cmd":"getpp"}]
