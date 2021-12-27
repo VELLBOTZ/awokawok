@@ -10,11 +10,7 @@ return`
 ╰────────────────❏
 
 ╭──── 『 *SCRIPT BY* 』 ────❏
-㊰ Decode Denpa
-㊰ X-Dev Team
-㊰ Yogi PW
-㊰  Hexagon
-㊰  Dittaz
+㊰ Vells ( saya )
 ╰────────────────❏`
 }
 
