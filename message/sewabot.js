@@ -23,9 +23,7 @@ Berikut adalah list harga untuk sewa botz
 │❏  wa.me/6281311419508?text=.menu
 ╰────
 ╭─[ *PAYMENT* ]
-│❏  GOPAY : ${settings.GOPAY}
-│❏  DANA : ${settings.DANA}
-│❏  PULSA : ${settings.PULSA}
+│❏  DANA
 │❏  QRIS ALL PAYMENT
 ╰────
 
