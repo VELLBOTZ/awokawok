@@ -5,8 +5,8 @@ Berikut adalah list harga untuk sewa botz
 
 =============================
 ╭──「 *_SEWA BOT_* 」
-│❏ 1 MINGGU : 1K
-│❏ 1 BULAN : 5K
+│❏ 1 MINGGU : 6K
+│❏ 1 BULAN : 9K
 │❏ PERMANEN : 10k
 ╰────
 ╭─ [ *KELEBIHAN BOT* ]
@@ -17,10 +17,10 @@ Berikut adalah list harga untuk sewa botz
 │❏  DAN MASIH BANYAK LAGI KELEBIHANNYA
 ╰──── 
 ╭─[ *MINAT CHAT* ]
-│❏  wa.me/62882397144534?text=bang+mau+sewa+bot
+│❏  wa.me/6285722233610?text=bang+mau+sewa+bot
 ╰────
 ╭─[ *TES BOT? PC NOMOR DIBAWAH* ]
-│❏  wa.me/62881024302245?text=.menu
+│❏  wa.me/6281311419508?text=.menu
 ╰────
 ╭─[ *PAYMENT* ]
 │❏  GOPAY : ${settings.GOPAY}
@@ -34,14 +34,6 @@ Berikut adalah list harga untuk sewa botz
 JIKA BOT OFF BERARTI SEDANG
 ADA KENDALA/OWNER LAGI SIBUK,
 JADI KALAU BOT NYA OFF SABAR AJA JANGAN SPAM OWNER NYA.
-
-KALO MAU SEWA BOT BISA CHAT
-OWNER BOT, KHUSUS UNTUK FREE
-SEWA 1 HARI BISA PAKEK FITUR
-${prefix}freeoneday <Link Gc>
-TANPA HARUS CHAT OWNER
-CONTOH:
- .freeoneday https://chat.whatsapp.com/HBfonhPfwHgK1wwaUbkaP8
 =============================
 `
 }
