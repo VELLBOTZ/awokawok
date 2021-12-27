@@ -5,8 +5,8 @@ return`
 │  Bantu developer ngembangin bot ini
 │  dengan donasi seiklasnya 🙂
 │
-│  GOPAY: 083149781035
-│  DANA  : 083149781035
+│  GOPAY: -
+│  DANA  : -
 │ 
 │ Makasih yang udah donasi
 │ dan bantu ngembangin bot ini
