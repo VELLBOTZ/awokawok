@@ -104,9 +104,9 @@ module.exports = async(client, anu) => {
              }
                     
              let but = [{
-						 "buttonId": `infogc`,
+						 "buttonId": `y`,
 						 "buttonText": {
-						 "displayText"WELCOME👋`},
+						 "displayText"WELCOME👋" },
 						 "type": "RESPONSE"},{
 						 }]
             
