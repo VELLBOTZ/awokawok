@@ -106,7 +106,7 @@ module.exports = async(client, anu) => {
              let but = [{
 						 "buttonId": `infogc`,
 						 "buttonText": {
-						 "displayText"𝑾𝑬𝑳𝑪𝑶𝑴𝑬👋`},
+						 "displayText"WELCOME👋`},
 						 "type": "RESPONSE"},{
 						 }]
             
@@ -125,7 +125,7 @@ module.exports = async(client, anu) => {
              buff = await getBuffer(`http://hadi-api.herokuapp.com/api/card/welcome?nama=${pushname}&descriminator=${groupMembers.length}&memcount=${allmem}&gcname=${encodeURI(groupName)}&pp=${pp_user}&bg=https://i.postimg.cc/tCTkRNpf/anime-anime-girls-digital-art-artwork-neko-ears-hd-wallpaper-preview.jpg`)
              teks =  `Selamat datang di grup\nMoga betah ya kak `        
              buttons = [
-             { buttonId: `y`, buttonText: { displayText: "𝑾𝑬𝑳𝑪𝑶𝑴𝑬👋" }, type: 1 },
+             { buttonId: `y`, buttonText: { displayText: "WELCOME👋" }, type: 1 },
              { buttonId: `${prefix}bullyuk ${memNumber}`, buttonText: { displayText: "Bully yuk" }, type: 1 } 
              ];         
              sendButImage2(from, intro, copyright, buff, buttons)
@@ -197,7 +197,7 @@ module.exports = async(client, anu) => {
               
              teks =  `Selamat datang di grup\nMoga betah ya kak `        
              buttons = [
-             { buttonId: `y`, buttonText: { displayText: "𝑾𝑬𝑳𝑪𝑶𝑴𝑬👋" }, type: 1 },
+             { buttonId: `y`, buttonText: { displayText: "WELCOME👋" }, type: 1 },
              ];         
              sendButLocation(from, intro, copyright, ppUser, buttons)
              }
@@ -209,7 +209,7 @@ module.exports = async(client, anu) => {
              }
                            
               teks = `Asik beban grup keluar \nKena mental dia :v`
-              buttons = [{ buttonId: `y`, buttonText: { displayText: "𝑩𝒀𝑬𝑬 𝑩𝑬𝑩𝑨𝑵 𝑮𝑹𝑼𝑷👋" }, type: 1 }
+              buttons = [{ buttonId: `y`, buttonText: { displayText: "BYEE BEBAN GRUP KEK TAI👋" }, type: 1 }
               ];        
               sendButLocation(from, outro, copyright, ppUser, buttons)
               }
