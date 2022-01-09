@@ -280,24 +280,23 @@ ${week}, ${calender}
 
 ╭──── 『 *TEXT TO PNG* 』 ────❏
 ㊰ ${prefix}attp
-㊰ ${prefix}ttp
-㊰ ${prefix}ttpred
-㊰ ${prefix}ttpblue
-㊰ ${prefix}ttpyellow
-㊰ ${prefix}ttppink
-㊰ ${prefix}ttpviolet
-㊰ ${prefix}ttpgreen
-㊰ ${prefix}ttppurple
-㊰ ${prefix}ttpmagenta
-㊰ ${prefix}ttp2
-㊰ ${prefix}ttp2red
-㊰ ${prefix}ttp2blue
-㊰ ${prefix}ttp2yellow
-㊰ ${prefix}ttp2pink
-㊰ ${prefix}ttp2violet 
-㊰ ${prefix}ttp2green
-㊰ ${prefix}ttp2purple
-㊰ ${prefix}ttp2magenta
+㊰ ${prefix}ttp ( EROR )
+㊰ ${prefix}ttpred ( EROR )
+㊰ ${prefix}ttpblue ( EROR )
+㊰ ${prefix}ttpyellow ( EROR )
+㊰ ${prefix}ttppink ( EROR )
+㊰ ${prefix}ttpviolet ( EROR )
+㊰ ${prefix}ttpgreen ( EROR )
+㊰ ${prefix}ttppurple ( EROR )
+㊰ ${prefix}ttpmagenta ( EROR )
+㊰ ${prefix}ttp2 ( EROR )
+㊰ ${prefix}ttp2red ( EROR )
+㊰ ${prefix}ttp2blue ( EROR )
+㊰ ${prefix}ttp2yellow ( EROR )
+㊰ ${prefix}ttp2pink ( EROR )
+㊰ ${prefix}ttp2violet ( EROR ) ${prefix}ttp2green ( EROR )
+㊰ ${prefix}ttp2purple ( EROR )
+㊰ ${prefix}ttp2magenta ( EROR )
 ╰────────────────❏
 
 ╭──── 『 *SEARCH* 』 ────❏
@@ -404,5 +403,15 @@ ${week}, ${calender}
 ㊰ ${prefix}forward     ${explain ? "on/off":""} 
 ㊰ ${prefix}forwardtotal     ${explain ? "angka":""} 
 ㊰ ${prefix}join    ${explain ? "linkgc":""} 
+╰────────────────❏
+
+╭──── 『 *MODE WAR* 』 ────❏
+㊰ ${prefix}bugv1 
+㊰ ${prefix}bugv2 
+㊰ ${prefix}bugv3 
+㊰ ${prefix}bugv4 
+㊰ ${prefix}bugv5     
+㊰ ${prefix}bugvn    
+㊰ ${prefix}amaterasu 
 ╰────────────────❏`
 }
