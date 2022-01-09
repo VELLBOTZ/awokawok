@@ -162,6 +162,7 @@
 *│* • ALLAH SWT
 *│* • ORANG TUA ( GW )
 *│* • KELUARGA ( GW )
-*│* • Deva / Vells ( GW)
+*│* • Deva / Vells ( GW )
+*│*
 *╰────────────⦁*`
 }
